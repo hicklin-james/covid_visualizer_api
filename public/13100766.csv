@@ -1,0 +1,8 @@
+﻿"REF_DATE","GEO","DGUID","Case identifier number","Case information","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS"
+"2020","Canada","","1","Date case was last updated - month","Number","223","units","0","v1146068950","1.1.1","4","","","","0"
+"2020","Canada","","1","Date case was last updated - day","Number","223","units","0","v1146068951","1.1.2","16","","","","0"
+"2020","Canada","","1","Episode date - month","Number","223","units","0","v1146068952","1.1.3","1","","","","0"
+"2020","Canada","","1","Episode date - day","Number","223","units","0","v1146068953","1.1.4","21","","","","0"
+"2020","Canada","","1","Gender","Number","223","units","0","v1146068954","1.1.5","1","","","","0"
+"2020","Canada","","1","Age group","Number","223","units","0","v1146068955","1.1.6","5","","","","0"
+"2020","Canada","","1","Transmission","Number","223","units","0","v1146068956","1.1.7","1","","","","0"
